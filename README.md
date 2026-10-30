@@ -12,3 +12,7 @@ Created test user accounts within each department's organizational unit. This is
 <img width="1090" height="649" alt="image" src="https://github.com/user-attachments/assets/2de375de-b8b0-48af-9ab9-6a4eb69bcb5d" />
 
 Added department users to security groups to manage access to shared resources. This screenshot shows that the user, Kayla Byrd, is a member of the security group named "IT Support".
+
+<img width="481" height="519" alt="image" src="https://github.com/user-attachments/assets/1b4e2642-a66a-4dc3-be98-02e36f5b4535" />
+
+Joined the Windows client computer to the Active Directory domain. "Computer01" is the client computer name and "homelab.local" is the domain controller.
