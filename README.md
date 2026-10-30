@@ -1,5 +1,5 @@
 # ActiveDirectory
-In this lab, I created a domain, organizational units, users, and security groups. I also joined a Windows client to the domain.
+Built an Active Directory home lab in VMware using Windows Server 2025 as the domain controller and Windows 11 (64-bit) as the client. I created a domain, organizational units, users, and security groups. I also joined the Windows client to the domain.
 
 <img width="1534" height="1079" alt="image" src="https://github.com/user-attachments/assets/c6617270-afd4-4535-a6c4-2f095650e543" />
 
