@@ -16,3 +16,7 @@ Added department users to security groups to manage access to shared resources. 
 <img width="481" height="519" alt="image" src="https://github.com/user-attachments/assets/1b4e2642-a66a-4dc3-be98-02e36f5b4535" />
 
 Joined the Windows client computer to the Active Directory domain. "Computer01" is the client computer name and "homelab.local" is the domain controller.
+
+<img width="1182" height="675" alt="image" src="https://github.com/user-attachments/assets/056fb289-1e8e-4248-b429-efbbfc54385c" />
+
+Signed into the client using a domain account and verified the account with the whoami command.
