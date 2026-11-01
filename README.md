@@ -25,7 +25,7 @@ SUCCESSFUL DOMAIN LOGIN: Signed into the client using a domain account and verif
 
 <img width="845" height="557" alt="image" src="https://github.com/user-attachments/assets/754e4630-2eab-476c-b941-8ca257cbc610" />
 
-NTFS FOLDER PERMISSIONS: Assigned folder permissions to the department's security group.
+NTFS FOLDER PERMISSIONS: Disabled inheritance on each department folder and assigned folder permissions to the department's security group.
 
 <img width="811" height="679" alt="image" src="https://github.com/user-attachments/assets/9d51f639-b5e6-4dd9-9f61-b66cecf43da4" />
 
