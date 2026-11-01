@@ -23,9 +23,11 @@ SUCCESSFUL DOMAIN LOGIN: Signed into the client using a domain account and verif
 
 <img width="1171" height="681" alt="image" src="https://github.com/user-attachments/assets/83366249-531c-4e21-b98b-6fdeab604af7" />
 
+<img width="845" height="557" alt="image" src="https://github.com/user-attachments/assets/754e4630-2eab-476c-b941-8ca257cbc610" />
+
 NTFS FOLDER PERMISSIONS: Assigned folder permissions to the department's security group.
 
-<img width="845" height="557" alt="image" src="https://github.com/user-attachments/assets/754e4630-2eab-476c-b941-8ca257cbc610" />
+<img width="811" height="679" alt="image" src="https://github.com/user-attachments/assets/9d51f639-b5e6-4dd9-9f61-b66cecf43da4" />
 
 SHARE PERMISSIONS: Configured share permissions to control access to folder over the network.
  
