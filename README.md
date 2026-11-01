@@ -37,5 +37,8 @@ SHARE PERMISSIONS: Configured share permissions to control access to folder over
 
 <img width="1535" height="676" alt="image" src="https://github.com/user-attachments/assets/9524d8df-0ebd-4e22-9810-e1d6c4ca4090" />
 
-
 CONFIRMED SUCCESSFULL FOLDER ACCESS: Signed in as an HR domain user and verified access to the HR shared folder by creating a test file, closing it, reopening it to confirm that I can read it, editing it, and then saving it again to test write access. Then, I deleted the test file to confirm modify access.
+
+<img width="1209" height="660" alt="image" src="https://github.com/user-attachments/assets/f6d2ee82-1a12-4684-98b2-6c2b3ff1ceee" />
+
+CONFIRM DENIAL OF FOLDER ACCESS: Verified that a user from another department (HR) was denied access to the restricted shared folder (IT).
