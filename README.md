@@ -11,7 +11,7 @@ Created test user accounts within each department's organizational unit. This is
 
 <img width="907" height="605" alt="image" src="https://github.com/user-attachments/assets/6b0d3c9c-0f7d-4066-a80a-4c3b54872aa1" />
 
-Added department users to security groups to manage access to shared resources. This screenshot shows that the user, Kayla Byrd, is a member of the security group named "IT Support".
+Added department users to security groups to manage access to shared resources. This screenshot shows that the user, Kayla Byrd, is a member of the security group named "IT Staff".
 
 <img width="481" height="519" alt="image" src="https://github.com/user-attachments/assets/1b4e2642-a66a-4dc3-be98-02e36f5b4535" />
 
