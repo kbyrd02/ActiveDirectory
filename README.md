@@ -30,4 +30,12 @@ NTFS FOLDER PERMISSIONS: Disabled inheritance on each department folder and assi
 <img width="811" height="679" alt="image" src="https://github.com/user-attachments/assets/9d51f639-b5e6-4dd9-9f61-b66cecf43da4" />
 
 SHARE PERMISSIONS: Configured share permissions to control access to folder over the network.
- 
+
+ <img width="1513" height="698" alt="image" src="https://github.com/user-attachments/assets/f04bfe55-9b3f-4d2a-8695-968d08b55158" />
+
+ <img width="1531" height="685" alt="image" src="https://github.com/user-attachments/assets/52135552-f6de-44fb-9251-6c58c0255145" />
+
+<img width="1535" height="676" alt="image" src="https://github.com/user-attachments/assets/9524d8df-0ebd-4e22-9810-e1d6c4ca4090" />
+
+
+CONFIRMED SUCCESSFULL FOLDER ACCESS: Signed in as an HR domain user and verified access to the HR shared folder by creating a test file, closing it, reopening it to confirm that I can read it, editing it, and then saving it again to test write access. Then, I deleted the test file to confirm modify access.
